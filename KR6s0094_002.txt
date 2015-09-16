@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:09.359608
+#+DATE: 2015-08-31 00:18:10.306702
 #+TITLE: 開元釋教錄略出
 #+PROPERTY: CBETA_ID T55n2155
 #+PROPERTY: ID KR6s0094
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2155
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6s0094_T_002-0730a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 二上開元釋教錄略出卷第二(上)¶
+開元釋教錄略出卷第二(上)¶
 ¶
 唐崇福寺沙門智昇撰¶
 
@@ -133,10 +132,6 @@
 自一帙¶計二百一紙(南藏作二百一紙)　【談】。¶
 
 大乘經單譯
-:PROPERTIES:
-:head: 大乘經單譯
-:END:
-
 
 一百三十部二百九十三卷二十¶
 四帙¶
@@ -287,8 +282,7 @@
   * 寂照神變三摩地經一卷唐三藏玄奘譯¶
 開元譯教錄略出卷第二(上)¶
 ¶
-
- 二下開元釋教錄略出卷第二(下)¶
+開元釋教錄略出卷第二(下)¶
 ¶
 唐崇福寺沙門智昇撰¶
 
@@ -336,10 +330,6 @@
 上二¶十三經二十五卷同帙計一百四十三紙　【行】。¶
 
 菩薩調伏藏
-:PROPERTIES:
-:head: 菩薩調伏藏
-:END:
-
 
 二十六部五十四卷五帙¶
 
@@ -384,19 +374,11 @@
 上十四經十四卷同帙計一百¶五十五紙　【作】。¶
 
 菩薩對法藏
-:PROPERTIES:
-:head: 菩薩對法藏
-:END:
-
 
 九十七部五百一十八卷五十¶
 帙¶
 
-大乘釋經論
-:PROPERTIES:
-:head: 大乘釋經
-:END:
-
+大乘釋經
 
 二十一部一百五十五卷一十¶
 五帙¶
@@ -439,10 +421,6 @@
 上八論十二¶卷同帙計一百六十五紙　【堂】。¶
 
 大乘集義論
-:PROPERTIES:
-:head: 大乘集義論
-:END:
-
 
 七十六部三百六十三卷(十五帙)¶
 
